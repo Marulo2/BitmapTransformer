@@ -1,0 +1,31 @@
+{
+  "name": "BitmapTransformer",
+  "version": "1.0.0",
+  "description": "Welcome to the TRANSFORM",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marulo2/BitmapTransformer.git"
+  },
+  "keywords": [],
+  "author": "Marshall Miller",
+  "contributors": "Kieran, Tre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marulo2/BitmapTransformer/issues"
+  },
+  "homepage": "https://github.com/Marulo2/BitmapTransformer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.5.3"
+  }
+}
